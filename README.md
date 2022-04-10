@@ -1,3 +1,7 @@
+# Hello!
+
+Here is my solution to the recruiting task. I hope I will be able to get this job. Let me know what do you think about this solution.
+
 # Backend/Full-stack recruitment task
 
 ----
@@ -5,12 +9,12 @@
 
 Hello there! we can't wait to see to you on board 🚀
 
-We will kindly ask you to take a look at this super simple recruitment task that will give us a lot of information about your skills with little effort on side. 
+We will kindly ask you to take a look at this super simple recruitment task that will give us a lot of information about your skills with little effort on side.
 
 
 ### 📋   Requirements
 
-- PHP server (>= 8.0) 
+- PHP server (>= 8.0)
   Really, that's all you need 🙂
 
 
@@ -31,11 +35,11 @@ We will kindly ask you to take a look at this super simple recruitment task that
 
 - Your entry file for PHP is `main.php` - feel free to organize other PHP files just the way you like it
 - Your datasource is `users.json` file - all changes (see points 2 and 3) have to be saved
-- For scripts and styles, use the `styles.scss` and `script.js` files - those are not necessary, but we will highly appreciate it 
+- For scripts and styles, use the `styles.scss` and `script.js` files - those are not necessary, but we will highly appreciate it
 
 
 
-### 💻   Your task 
+### 💻   Your task
 
 The recruitment task consists of 3 steps
 
@@ -47,7 +51,7 @@ The recruitment task consists of 3 steps
 | Ervin Howell     | Antonette | Shanna@melissa.ts  | Victor Plains, 90566-7771 Wisokyburgh       | 010-692-6593 x09125   | Deckow-Crist       |
 | Clementine Bauch | Samantha  | Nathan@yesenia.ner | Douglas Extension, 59590-4157 McKenziehaven | 1-463-123-4447        | Romaguera-Jacobson |
 
-2️⃣ Add a "Remove" button for each row, once clicked - the selected user should be removed from the JSON file, the page should be reloaded after the button is clicked. 
+2️⃣ Add a "Remove" button for each row, once clicked - the selected user should be removed from the JSON file, the page should be reloaded after the button is clicked.
 
 | Name             | Username  | Email              | Address                                     | Phone                 | Company            |                   |
 | ---------------- | --------- | ------------------ | ------------------------------------------- | --------------------- | ------------------ | ----------------- |
@@ -55,7 +59,7 @@ The recruitment task consists of 3 steps
 | Ervin Howell     | Antonette | Shanna@melissa.ts  | Victor Plains, 90566-7771 Wisokyburgh       | 010-692-6593 x09125   | Deckow-Crist       | **REMOVE BUTTON** |
 | Clementine Bauch | Samantha  | Nathan@yesenia.ner | Douglas Extension, 59590-4157 McKenziehaven | 1-463-123-4447        | Romaguera-Jacobson | **REMOVE BUTTON** |
 
-3️⃣ Add a simple form for adding a new user to the JSON file. 
+3️⃣ Add a simple form for adding a new user to the JSON file.
 
 | Name             | Username  | Email              | Address                                     | Phone                 | Company            |                   |
 | ---------------- | --------- | ------------------ | ------------------------------------------- | --------------------- | ------------------ | ----------------- |
